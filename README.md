@@ -10,3 +10,5 @@ A simple web application to track cryptocurrency positions across different exch
 
 ## Setup
 1. Clone the repository 
+
+2. Install dependencies 

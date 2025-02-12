@@ -56,14 +56,14 @@ positions = {
     "HYPE": {
         "source": "kucoin",
         "id": "HYPE",
-        "size": 100,
-        "cost_basis": 24
+        "size": 80.488,
+        "cost_basis": 24.859
     },
-    "SOL": {
-        "source": "kucoin",
-        "id": "SOL",
-        "size": 1,
-        "cost_basis": 200
+    "Greenland": {
+        "source": "dexscreener",
+        "id": "Bn5jEuwssGrD7xvux8g1NQZyVLwH3dWggmy2sL9hgn5Q,
+        "size": 322,735.744,
+        "cost_basis": 0.00015514
     },
     "USDC": {
         "source": "kucoin",

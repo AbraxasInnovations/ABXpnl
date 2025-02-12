@@ -61,8 +61,8 @@ positions = {
     },
     "Greenland": {
         "source": "dexscreener",
-        "id": "Bn5jEuwssGrD7xvux8g1NQZyVLwH3dWggmy2sL9hgn5Q,
-        "size": 322,735.744,
+        "id": "Bn5jEuwssGrD7xvux8g1NQZyVLwH3dWggmy2sL9hgn5Q",
+        "size": 322735.744,
         "cost_basis": 0.00015514
     },
     "USDC": {
